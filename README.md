@@ -1,16 +1,13 @@
-### Hi there 👋
+# x32's shit
 
-<!--
-**problematic-scripter/problematic-scripter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mainly code in LuaU and Python.
+yeah I don't really put things here but ig I have the account
 
-Here are some ideas to get you started:
+[![stats](https://github-readme-stats.vercel.app/api?username=problematic-scripter&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=problematic-scripter&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# where my rares are
+my rares are on my glot page, but they are all private.
+no rares 4 u
+
+# thanks for listening to my ted talk
